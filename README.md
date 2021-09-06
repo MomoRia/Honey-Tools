@@ -20,5 +20,7 @@ The Honey Sword is maybe the most important part of the pack, you can craft it l
 Installation: 
 
 1: Install Forge at https://files.minecraftforge.net/net/minecraftforge/forge/ version 1.15+, any lower versions will not work with the mod
+
 2: Navigate to your Forge installation and drag and drop the Honey_Tools.jar into the mods folder
+
 3: Select the forge version of Minecraft in your launcher and you are goood to go!
