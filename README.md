@@ -7,7 +7,7 @@ Well, looks like that's going to change. To start, smelt Honey Comb to make Hone
 
 Have some suggestions? DM me at MomoRia#4240! This is my first ever addon so I hope you enjoy!
 
- 
+--------------------------------------------------------------------------------------------------------------------------------------------- 
 
 The Basics:
 
@@ -24,3 +24,20 @@ Installation:
 2: Navigate to your Forge installation and drag and drop the Honey_Tools.jar into the mods folder
 
 3: Select the forge version of Minecraft in your launcher and you are goood to go!
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Current List of Items and their Recipes:
+
+Honey Sword: 2 Honey Ingots with a Stick, same crafting recipe as all the other swords
+
+Honey Pickaxe: 3 Honey Ingots with 2 Sticks, same crafting recipe as all the other pickaxes
+
+Honey Battle-Axe: Two sticks same pattern if you were making a pickaxe but with an ingot to the left and right of the top stick
+
+
+Honey Apple: Apple in the middle surrounded by Honey Comb
+
+Honey Ingot: Smelt a Honeycomb in a furnace
+
+Honey Ingot Block: Fill the crafting bench with ingots, same recipe as if you were making any other ore block
